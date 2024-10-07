@@ -5,6 +5,7 @@ def boolean():
     Using the variable below, give it the value 'True', then print it.
     """
     # enter your code here
+    print = (True)
     staying_alive = None
 
 
@@ -15,10 +16,12 @@ def integer():
     Create a program to accept two numbers from a user and multiply them, then print the product.
     """
 
-    num1 = int(input("Enter first number\n"))
-    num2 = int(input("Enter second number\n"))
+    num1 = int(input("Enter first number\*n"))
+    num2 = int(input("Enter second number\*n"))
+
 
     # enter your code here
+    print ("number*number")
 
 
 def string():
@@ -29,7 +32,8 @@ def string():
     """
 
     # enter your code here
-
+    x = your_name
+    print =(x)
     your_name = None
 
 
@@ -43,6 +47,8 @@ def convert_to_float():
     int_num = 60
 
     #enter your code here
+    int_num = 60
+    print()
 
 
 def all_data_types():
@@ -62,6 +68,15 @@ def all_data_types():
     float_cost = 0.00
 
     #enter your code here
+    print(int)
+    print([])
+    print(True or False)
+    print(0.00)
+
+    
+    
+
+
 
 
 if __name__ == "__main__":

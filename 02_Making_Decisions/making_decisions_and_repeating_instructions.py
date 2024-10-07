@@ -16,6 +16,10 @@ def all_numbers():
     num2 = int(input())
 
     #enter your code here
+    number =int[0,4]
+    print(all_numbers)
+
+
 
 
 def dog_years():
@@ -33,6 +37,8 @@ def dog_years():
     h_age = int(input("Input a dog's age in human years: \n"))
 
     #enter your code here
+    h_age = int(input("Input a dog's age in human year:\15"))
+    d_age = int(input("Input a human's age in dog year:\73"))
 
 
 
@@ -50,6 +56,11 @@ def consonant_or_vowel():
     l = input("Input a letter of the alphabet: ")
 
     #enter your code here
+    k = input("Input a letter of the alphabet:{}")
+    
+
+
+
 
 
 def month_numbers():
